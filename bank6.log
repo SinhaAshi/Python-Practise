@@ -1,0 +1,8 @@
+2026-02-20 22:00:01,254 - INFO - Finding duplicate elements in the list
+2026-02-20 22:00:01,254 - INFO - Seen: {1}, Duplicates: set()
+2026-02-20 22:00:01,254 - INFO - Seen: {1, 2}, Duplicates: set()
+2026-02-20 22:00:01,255 - INFO - Seen: {1, 2, 3}, Duplicates: set()
+2026-02-20 22:00:01,255 - INFO - Seen: {1, 2, 3, 4}, Duplicates: set()
+2026-02-20 22:00:01,255 - INFO - Seen: {1, 2, 3, 4}, Duplicates: {2}
+2026-02-20 22:00:01,255 - INFO - Seen: {1, 2, 3, 4, 5}, Duplicates: {2}
+2026-02-20 22:00:01,255 - INFO - Seen: {1, 2, 3, 4, 5}, Duplicates: {1, 2}
